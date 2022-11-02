@@ -1,4 +1,4 @@
-package kodlama.io.rentACar;
+package kodlama.io.RentACar;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
